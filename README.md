@@ -17,3 +17,5 @@ The HTML Validator App is a Contentful sidebar extension that validates the cont
    ```bash
    git clone https://github.com/chaffexd/html-validator-app.git
    cd html-validator-app
+
+2. Adjust the fields as you need to, currently it reads from an example "Title" field in my content model.
